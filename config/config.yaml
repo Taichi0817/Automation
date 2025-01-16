@@ -1,0 +1,5 @@
+telnet:
+  host: "192.168.0.13"
+  port: 10023
+  username: "admin"
+  password: "password"

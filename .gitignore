@@ -1,0 +1,21 @@
+__pycache__/               # Pythonのバイトコードキャッシュ
+*.py[cod]                 # .pyc、.pyo、.pydファイル
+*.so                       # C拡張モジュール
+*.egg-info/                # setuptoolsによるパッケージ情報
+dist/                      # 配布用ファイル
+build/                     # ビルド用ファイル
+.eggs/                     # eggパッケージの保存先
+
+.venv/                     # 仮想環境ディレクトリ
+venv/                      # 仮想環境ディレクトリ
+env/                       # 仮想環境ディレクトリ
+
+.vscode/                   
+.idea/                     
+*.sublime-workspace        
+*.sublime-project          
+*.iml                      
+
+logs/*.log                 # ログファイル
+
+Thumbs.db
